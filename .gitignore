@@ -46,3 +46,7 @@ MKL*
 # Mac shit
 .DS_Store
 ._*
+
+# build
+build
+
