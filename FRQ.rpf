@@ -28,6 +28,7 @@ WIN64=NO
 
 [List:LIBRARIES.DARWIN]
 /Volumes/Scyndi/Projects/Applications/Ryanna/RyannaLibs
+/Volumes/Scyndi/Projects/Applications/Ryanna/Maneschijn
 
 [List:BUILDMODES]
 ALL
