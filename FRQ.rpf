@@ -1,0 +1,41 @@
+[rem]
+Generated file!
+
+Generated: 5/18/2018
+
+[vars]
+AUTHOR=Jeroen Petrus Broks aka Rachel aka Tricky
+EXE=File Requestor Test Utility
+JCRSIG=Skip it, will ya!
+LINUX=NO
+LOVEVERSION=0.11.1
+MAC64=YES
+MACICON.DARWIN=/Applications/Dyrt.app/Contents/Resources/LAURA.icns
+MAINSCRIPT=Script/main.lua
+PACKAGE=JCR
+RELEASE.DARWIN=/Volumes/Scyndi/Projects/Applications/Ryanna/TestLabs/File-Requestor/build
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/BUILD'].AUTHOR=NONE
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/BUILD'].LICENSE=Unknown license
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/BUILD'].TYPE.DARWIN=NONE
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/PROJECT'].AUTHOR=Jeroen P. Broks
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/PROJECT'].LICENSE=Public domain (unless stated otherwise somewhere)
+SOURCE['/VOLUMES/SCYNDI/PROJECTS/APPLICATIONS/RYANNA/TESTLABS/FILE-REQUESTOR/PROJECT'].TYPE.DARWIN=ALL
+TEST.DARWIN=/Volumes/Scyndi/Projects/Applications/Ryanna/TestLabs/File-Requestor/build/test
+TITLE=File Requestor Test Utility
+WIN32=NO
+WIN64=NO
+
+
+[List:LIBRARIES.DARWIN]
+/Volumes/Scyndi/Projects/Applications/Ryanna/RyannaLibs
+
+[List:BUILDMODES]
+ALL
+
+[List:SOURCES.DARWIN]
+/Volumes/Scyndi/Projects/Applications/Ryanna/TestLabs/File-Requestor
+
+[List:CONFIG]
+
+[List:ALIASES]
+
