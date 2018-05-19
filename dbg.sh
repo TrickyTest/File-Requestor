@@ -1,0 +1,1 @@
+build/MAC/File\ Requestor\ Test\ Utility.app/contents/macos/love "/Volumes/Scyndi/Projects/Applications/Ryanna/TestLabs/File-Requestor/build/MAC/File Requestor Test Utility.app/contents/resources/File Requestor Test Utility.love"
